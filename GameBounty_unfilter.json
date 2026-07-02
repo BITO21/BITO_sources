@@ -6838,10 +6838,14 @@
     },
     {
       "title": "ButtKnight",
-      "uris": [],
-      "uploadDate": "2026-07-02T04:50:25.000Z",
-      "fileSize": "2.2 GB",
-      "version": "Build 18248610",
+      "uris": [
+        "https://datanodes.to/2cepgcd2gtk5",
+        "https://pixeldrain.com/u/BFJksxx1",
+        "https://gofile.io/d/6VVewA"
+      ],
+      "uploadDate": "2026-07-02T11:30:52.000Z",
+      "fileSize": "637.6 MB",
+      "version": "Build 18950930",
       "descriptionHtml": "<a href=\"https://gamebounty.world/buttknight\">GameBounty Website</a>"
     },
     {
