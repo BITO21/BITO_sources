@@ -2,6 +2,16 @@
   "name": "GameBounty",
   "downloads": [
     {
+      "title": "Astral Masters",
+      "uris": [
+        "https://datanodes.to/7c6wnf924t21"
+      ],
+      "uploadDate": "2026-07-04T19:15:21.000Z",
+      "fileSize": "17.6 MB",
+      "version": "Build 9561223",
+      "descriptionHtml": "<a href=\"https://gamebounty.world/astral-masters\">GameBounty Website</a>"
+    },
+    {
       "title": "TIS-100",
       "uris": [
         "https://datanodes.to/8gyrkhjutnkr"
