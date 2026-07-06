@@ -6296,10 +6296,14 @@
     },
     {
       "title": "Nordic Ashes",
-      "uris": [],
-      "uploadDate": "2026-07-05T16:41:15.000Z",
-      "fileSize": "1.6 GB",
-      "version": "v2.0.0.1 / Build 18415355",
+      "uris": [
+        "https://datanodes.to/tqjwtttgzdtm",
+        "https://pixeldrain.com/u/fv262Yzq",
+        "https://gofile.io/d/L6i0Zv"
+      ],
+      "uploadDate": "2026-07-06T19:38:47.000Z",
+      "fileSize": "762.7 MB",
+      "version": "02.07.2026 | Build 24025658",
       "descriptionHtml": "<a href=\"https://gamebounty.world/nordic-ashes\">GameBounty Website</a>"
     },
     {
