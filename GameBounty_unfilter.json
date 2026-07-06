@@ -5715,10 +5715,13 @@
     },
     {
       "title": "Mon Bazou",
-      "uris": [],
-      "uploadDate": "2026-07-05T16:43:54.000Z",
-      "fileSize": "503.3 MB",
-      "version": "Build 16817900",
+      "uris": [
+        "https://datanodes.to/h3wziu0c9c7j",
+        "https://pixeldrain.com/u/KWEP8eiy"
+      ],
+      "uploadDate": "2026-07-06T19:14:16.000Z",
+      "fileSize": "771.8 MB",
+      "version": "Build 21272629",
       "descriptionHtml": "<a href=\"https://gamebounty.world/mon-bazou\">GameBounty Website</a>"
     },
     {
