@@ -6536,10 +6536,13 @@
     },
     {
       "title": "Ultimate Chicken Horse",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:00:06.000Z",
-      "fileSize": "2.2 GB",
-      "version": "V.1.11.01",
+      "uris": [
+        "https://datanodes.to/hsi4p8nb5q8f",
+        "https://pixeldrain.com/u/kNkDwskY"
+      ],
+      "uploadDate": "2026-07-07T14:07:43.000Z",
+      "fileSize": "1 GB",
+      "version": "Build 23306644",
       "descriptionHtml": "<a href=\"https://gamebounty.world/ultimate-chicken-horse\">GameBounty Website</a>"
     },
     {
