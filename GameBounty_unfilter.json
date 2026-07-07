@@ -5378,10 +5378,13 @@
     },
     {
       "title": "Papers, Please",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:07:13.000Z",
-      "fileSize": "67.4 MB",
-      "version": "Build 10817815",
+      "uris": [
+        "https://datanodes.to/15reycjj7r3z",
+        "https://gofile.io/d/oUNw6H"
+      ],
+      "uploadDate": "2026-07-07T17:06:58.000Z",
+      "fileSize": "220 MB",
+      "version": "21.03.2023 | Build 10817815",
       "descriptionHtml": "<a href=\"https://gamebounty.world/papers-please\">GameBounty Website</a>"
     },
     {
