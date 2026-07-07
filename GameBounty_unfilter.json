@@ -5900,10 +5900,13 @@
     },
     {
       "title": "Wilmot Works It Out",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:04:44.000Z",
-      "fileSize": "375.8 MB",
-      "version": "Build 16735677",
+      "uris": [
+        "https://datanodes.to/cjvp6l722oea",
+        "https://pixeldrain.com/u/LJrruzSs"
+      ],
+      "uploadDate": "2026-07-07T17:28:49.000Z",
+      "fileSize": "547.2 MB",
+      "version": "27.02.2026 | Build 21131441",
       "descriptionHtml": "<a href=\"https://gamebounty.world/wilmot-works-it-out\">GameBounty Website</a>"
     },
     {
