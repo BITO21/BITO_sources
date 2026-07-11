@@ -4195,9 +4195,11 @@
     },
     {
       "title": "DARK SOULS™ III",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:17:16.000Z",
-      "fileSize": "24.9 GB",
+      "uris": [
+        "https://pixeldrain.com/u/pf13b9jo"
+      ],
+      "uploadDate": "2026-07-11T22:15:08.000Z",
+      "fileSize": "25.5 GB",
       "version": "v1.15.2",
       "descriptionHtml": "<a href=\"https://gamebounty.world/dark-souls-iii\">GameBounty Website</a>"
     },
