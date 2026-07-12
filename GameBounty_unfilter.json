@@ -32427,10 +32427,12 @@
     },
     {
       "title": "Tabletop Tavern",
-      "uris": [],
-      "uploadDate": "2026-07-06T21:16:50.000Z",
+      "uris": [
+        "https://pixeldrain.com/u/ng7xTKH1"
+      ],
+      "uploadDate": "2026-07-12T06:31:12.000Z",
       "fileSize": "2.9 GB",
-      "version": "Build 24052471",
+      "version": "Build 24153551",
       "descriptionHtml": "<a href=\"https://gamebounty.world/tabletop-tavern\">GameBounty Website</a>"
     },
     {
