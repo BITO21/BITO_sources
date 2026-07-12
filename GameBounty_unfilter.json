@@ -7630,10 +7630,13 @@
     },
     {
       "title": "Felvidek",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:04:34.000Z",
-      "fileSize": "535.8 MB",
-      "version": "Build 16601959",
+      "uris": [
+        "https://datanodes.to/o7abyi2ivjxg",
+        "https://pixeldrain.com/u/dLLyfHau"
+      ],
+      "uploadDate": "2026-07-12T16:35:34.000Z",
+      "fileSize": "724.4 MB",
+      "version": "Build 18709219",
       "descriptionHtml": "<a href=\"https://gamebounty.world/felvidek\">GameBounty Website</a>"
     },
     {
