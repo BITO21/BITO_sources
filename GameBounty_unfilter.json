@@ -3300,10 +3300,12 @@
     },
     {
       "title": "Call of Duty 2",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:39:32.000Z",
-      "fileSize": "3.5 GB",
-      "version": " (v1.3 / Build 13845)",
+      "uris": [
+        "https://pixeldrain.com/u/2hxALCFZ"
+      ],
+      "uploadDate": "2026-07-15T23:24:05.000Z",
+      "fileSize": "3.4 GB",
+      "version": "v1.3 / Build 13845",
       "descriptionHtml": "<a href=\"https://gamebounty.world/call-of-duty-2\">GameBounty Website</a>"
     },
     {
