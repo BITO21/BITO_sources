@@ -10012,10 +10012,13 @@
     },
     {
       "title": "Fabledom",
-      "uris": [],
-      "uploadDate": "2026-07-06T22:56:11.000Z",
-      "fileSize": "3.8 GB",
-      "version": "v1.07 | Build 18457870",
+      "uris": [
+        "https://datanodes.to/t592ajamawoy",
+        "https://pixeldrain.com/u/tapZ72Zk"
+      ],
+      "uploadDate": "2026-07-15T09:55:10.000Z",
+      "fileSize": "1.9 GB",
+      "version": "Build 21830376",
       "descriptionHtml": "<a href=\"https://gamebounty.world/fabledom\">GameBounty Website</a>"
     },
     {
