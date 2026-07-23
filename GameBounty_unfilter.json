@@ -8207,10 +8207,13 @@
     },
     {
       "title": "DRAGON BALL: Sparking! ZERO",
-      "uris": [],
-      "uploadDate": "2026-07-06T23:14:35.000Z",
-      "fileSize": "28.6 GB",
-      "version": "v2011.010.003.007.006 / Build 17961911",
+      "uris": [
+        "https://pixeldrain.com/u/S9V2UXPD",
+        "https://datanodes.to/gbuwmj8fg4rk"
+      ],
+      "uploadDate": "2026-07-23T17:46:44.000Z",
+      "fileSize": "27.6 GB",
+      "version": "Build 22517964",
       "descriptionHtml": "<a href=\"https://gamebounty.world/dragon-ball-sparking-zero\">GameBounty Website</a>"
     },
     {
