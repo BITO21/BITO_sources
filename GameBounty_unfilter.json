@@ -2583,9 +2583,12 @@
     },
     {
       "title": "Balatro",
-      "uris": [],
-      "uploadDate": "2026-08-02T20:44:33.000Z",
-      "fileSize": "115 MB",
+      "uris": [
+        "https://pixeldrain.com/u/6XyeGHWp",
+        "https://datanodes.to/oineq0o43kbn"
+      ],
+      "uploadDate": "2026-08-03T07:53:40.000Z",
+      "fileSize": "245.1 MB",
       "version": "Build 17459173",
       "descriptionHtml": "<a href=\"https://gamebounty.world/balatro\">GameBounty Website</a>"
     },
