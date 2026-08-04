@@ -2879,10 +2879,13 @@
     },
     {
       "title": "Until Dawn™",
-      "uris": [],
-      "uploadDate": "2026-08-02T20:49:35.000Z",
-      "fileSize": "59.5 GB",
-      "version": "Build 16633318",
+      "uris": [
+        "https://pixeldrain.com/u/rJBb7FBy",
+        "https://pixeldrain.com/u/y4rHKyAz"
+      ],
+      "uploadDate": "2026-08-04T16:57:29.000Z",
+      "fileSize": "57.7 GB",
+      "version": "Build 20076348",
       "descriptionHtml": "<a href=\"https://gamebounty.world/until-dawn\">GameBounty Website</a>"
     },
     {
