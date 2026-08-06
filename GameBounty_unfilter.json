@@ -1957,10 +1957,15 @@
     },
     {
       "title": "EVERSPACE™ 2",
-      "uris": [],
-      "uploadDate": "2026-08-05T03:20:51.000Z",
-      "fileSize": "40.4 GB",
-      "version": " (v1.4.47960 / Build 18406617)",
+      "uris": [
+        "https://pixeldrain.com/u/FWt2aDr6",
+        "https://pixeldrain.com/u/JhtzsyVD",
+        "https://datanodes.to/hicmt2g9fvlh",
+        "https://datanodes.to/hz7f5xe3rusd"
+      ],
+      "uploadDate": "2026-08-06T23:50:15.000Z",
+      "fileSize": "36.6 GB",
+      "version": "Build 18856734",
       "descriptionHtml": "<a href=\"https://gamebounty.world/everspace-2\">GameBounty Website</a>"
     },
     {
