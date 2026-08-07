@@ -4938,10 +4938,13 @@
     },
     {
       "title": "Visage",
-      "uris": [],
-      "uploadDate": "2026-08-05T03:10:25.000Z",
+      "uris": [
+        "https://pixeldrain.com/u/c2DfaKag",
+        "https://datanodes.to/ys2gjeb3mgtv"
+      ],
+      "uploadDate": "2026-08-07T15:30:50.000Z",
       "fileSize": "7.7 GB",
-      "version": "v3.04 | Build 6062332",
+      "version": "Build 6062332",
       "descriptionHtml": "<a href=\"https://gamebounty.world/visage\">GameBounty Website</a>"
     },
     {
