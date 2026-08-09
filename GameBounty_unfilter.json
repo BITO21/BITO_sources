@@ -5324,10 +5324,12 @@
     },
     {
       "title": "POSTAL: Brain Damaged",
-      "uris": [],
-      "uploadDate": "2026-08-05T03:12:45.000Z",
-      "fileSize": "11.3 GB",
-      "version": "v17.02.2025 / Build 17394100",
+      "uris": [
+        "https://pixeldrain.com/u/oH3CUFY2"
+      ],
+      "uploadDate": "2026-08-09T20:15:26.000Z",
+      "fileSize": "11.9 GB",
+      "version": "Build 21193832",
       "descriptionHtml": "<a href=\"https://gamebounty.world/postal-brain-damaged\">GameBounty Website</a>"
     },
     {
