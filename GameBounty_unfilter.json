@@ -3697,10 +3697,12 @@
     },
     {
       "title": "鬼谷八荒 Tale of Immortal",
-      "uris": [],
-      "uploadDate": "2026-08-05T03:19:35.000Z",
-      "fileSize": "5.5 GB",
-      "version": "Build 13381268",
+      "uris": [
+        "https://pixeldrain.com/u/mY9XfAC9"
+      ],
+      "uploadDate": "2026-08-10T04:04:22.000Z",
+      "fileSize": "8.3 GB",
+      "version": "Build 21758240",
       "descriptionHtml": "<a href=\"https://gamebounty.world/鬼谷八荒-tale-of-immortal\">GameBounty Website</a>"
     },
     {
